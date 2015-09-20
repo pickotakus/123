@@ -206,7 +206,6 @@ C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Razor.xml
 C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.xml
 C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Razor.xml
-C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csprojResolveAssemblyReference.cache
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.Migrations.InitialCreate.resources
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.Migrations.AddTodoIndexes.resources
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csproj.GenerateResource.Cache
