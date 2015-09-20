@@ -1,0 +1,56 @@
+﻿<h2>{{btnName}} Darbiņu </h2>
+
+<form name="form" class="form-horizontal">
+    <div class="control-group" ng-class="{error: form.Title.$invalid}">
+        <label class="control-label" for="Title">  Darbiņa nosaukums  </label>
+        <div class="controls">
+            <input type="text" ng-model="item.Title" id="Title">
+        </div>
+    </div>
+    <div class="control-group" ng-class="{error: form.MainCategoryID.$invalid}" ng-show="false">
+        <label class="control-label" for="MainCategoryID">  MainCategoryID </label>
+        <div class="controls">
+            <input type="text" ng-model="item.MainCategoryID" id="MainCategoryID" value="{{mainCatIDforitem}}">
+        </div>       
+    </div>
+    <div class="control-group" ng-class="{error: form.Description.$invalid}">
+        <label class="control-label" for="Description">  Apraksts  </label>
+        <div class="controls">
+            <input type="text" ng-model="item.Description" id="Description">
+        </div>
+    </div>
+    <div class="control-group" ng-class="{error: form.Subtasks.$invalid}">
+        <label class="control-label" for="Subtasks"> Izpildes termiņš  </label>
+        <div class="controls">
+            <input type="text" id="day" ng-model="item.Subtasks" style="width:80px" />
+        </div>
+    </div>
+    <div class="control-group" ng-class="{error: form.Notes.$invalid}">
+        <label class="control-label" for="Notes"> Piezīmes  </label>
+        <div class="controls">
+            <input type="text" ng-model="item.Notes" id="Notes">
+        </div>
+    </div>
+    <div class="control-group" ng-class="{error: form.Attachments.$invalid}">
+        <label class="control-label" for="Attachments"> Pievienotie faili:  </label>
+        <div class="controls">
+            <input type="text" ng-model="item.Attachments" id="Attachments">
+        </div>
+    </div>
+    <div class="control-group" ng-class="{error: form.Priority.$invalid}">
+        <label class="control-label" for="Priority"> Prioritāte  </label>
+        <div class="controls">
+            <a ng-click="toggleImage()"><img id="prioritybutton" ng-src="{{priorityImgUrl}}" /></a>
+        </div>
+    </div>
+
+
+
+        <div class="form-actions">
+            <button ng-click="save()" class="btn btn-primary">
+                {{btnName}}
+            </button>
+            <a href="#/" class="btn">Atcelt</a>
+        </div>
+   
+</form>
