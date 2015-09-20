@@ -176,3 +176,39 @@ C:\Users\Sannie\Desktop\backup copy - Copy (3) - Copy - Copy\AmazingTodo-d696c7b
 C:\Users\Sannie\Desktop\backup copy - Copy (3) - Copy - Copy\AmazingTodo-d696c7b67b47001fd121efda36fccd961b5b26dc\AmazingTodo\obj\Debug\AmazingTodo.csproj.GenerateResource.Cache
 C:\Users\Sannie\Desktop\backup copy - Copy (3) - Copy - Copy\AmazingTodo-d696c7b67b47001fd121efda36fccd961b5b26dc\AmazingTodo\obj\Debug\AmazingTodo.dll
 C:\Users\Sannie\Desktop\backup copy - Copy (3) - Copy - Copy\AmazingTodo-d696c7b67b47001fd121efda36fccd961b5b26dc\AmazingTodo\obj\Debug\AmazingTodo.pdb
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\AmazingTodo.dll.config
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\AmazingTodo.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\AmazingTodo.pdb
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\Antlr3.Runtime.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\EntityFramework.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\Newtonsoft.Json.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Net.Http.Formatting.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Helpers.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Http.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Http.WebHost.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Mvc.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Optimization.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Providers.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Razor.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\WebGrease.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\EntityFramework.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\Newtonsoft.Json.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Net.Http.Formatting.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Helpers.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Http.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Http.WebHost.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Mvc.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.Razor.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csprojResolveAssemblyReference.cache
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.Migrations.InitialCreate.resources
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.Migrations.AddTodoIndexes.resources
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csproj.GenerateResource.Cache
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.dll
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.pdb
