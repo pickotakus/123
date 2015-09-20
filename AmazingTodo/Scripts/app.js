@@ -138,7 +138,7 @@ function subitemsController($scope, $routeParams, $http) {
         });
         $scope.items = unfiltered;
     })
-    .error(function (data) { alert(data);});
+    .error(function (data) { });
 
 }
 
