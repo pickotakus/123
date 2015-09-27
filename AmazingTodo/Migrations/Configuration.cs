@@ -11,7 +11,7 @@ namespace AmazingTodo.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(AmazingTodo.Models.AmazingTodoContext context)
