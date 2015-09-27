@@ -212,3 +212,4 @@ C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csproj.GenerateRes
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.dll
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.pdb
 C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.csprojResolveAssemblyReference.cache
+C:\Users\Sannie\Desktop\123\AmazingTodo\obj\Debug\AmazingTodo.Migrations.InitialMigrations.resources

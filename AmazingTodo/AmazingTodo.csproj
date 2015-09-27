@@ -138,7 +138,10 @@
     <Compile Include="Migrations\201301041732440_AddTodoIndexes.Designer.cs">
       <DependentUpon>201301041732440_AddTodoIndexes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202020_Add_Tables.cs" />
+    <Compile Include="Migrations\201509272102231_InitialMigrations.cs" />
+    <Compile Include="Migrations\201509272102231_InitialMigrations.Designer.cs">
+      <DependentUpon>201509272102231_InitialMigrations.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AddItemsContext.cs" />
     <Compile Include="Models\AdditionalItem.cs" />
@@ -380,6 +383,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201301041732440_AddTodoIndexes.resx">
       <DependentUpon>201301041732440_AddTodoIndexes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201509272102231_InitialMigrations.resx">
+      <DependentUpon>201509272102231_InitialMigrations.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
