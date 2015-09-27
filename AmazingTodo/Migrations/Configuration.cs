@@ -32,8 +32,39 @@ namespace AmazingTodo.Migrations
             tasks.ForEach(s => context.TodoItems.AddOrUpdate(p => p.TodoItemId, s));
             context.SaveChanges();
 
-           
+            var subs = new List<SubbItem>
+            {
+                new SubbItem {ID = 1, MainCategoryID = 1, 
+                    Title = "SubTask1",Description= "SubTask1", Subtasks = "", Notes="", Attachments="", Priority=false},
+                new SubbItem {ID = 2, 
+                    MainCategoryID = 1,
+                    Title = "SubTask2",Description= "SubTask2", Subtasks = "", Notes="", Attachments="", Priority=false },
+                new SubbItem {ID = 3, 
+                    MainCategoryID = 2,
+                    Title = "SubTask3",Description= "SubTask2", Subtasks = "", Notes="", Attachments="", Priority=false },
+                new SubbItem {ID = 4, 
+                    MainCategoryID = 1,
+                    Title = "SubTask4",Description= "SubTask2", Subtasks = "", Notes="", Attachments="", Priority=false }
 
+            };
+            subs.ForEach(s => context.SubItems.AddOrUpdate(p => p.ID, s));
+            context.SaveChanges();
+
+            var adds = new List<AdditionalItem>
+            {
+                new AdditionalItem { 
+                    ID = 1, 
+                    MainTaskID = 1, 
+                    Title = "AddTask1", Description= "AddTask1", Subcategory=""
+                },
+                 new AdditionalItem { 
+                    ID = 2, 
+                    MainTaskID = 1, 
+                    Title = "AddTask2", Description= "AddTask2", Subcategory=""
+                },
+            };
+            adds.ForEach(s => context.AddItems.AddOrUpdate(p => p.ID, s));
+            context.SaveChanges();
         }
     }
 }
