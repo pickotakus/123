@@ -16,6 +16,11 @@ namespace AmazingTodo.Models
         public SubItemsContext() : base("name=SubItemsContext")
         {
         }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            Database.SetInitializer(
+                new MigrateDatabaseToLatestVersion<AmazingTodoContext, Migrations.Configuration>());
+        }
 
         public DbSet<SubbItem> SubbItems { get; set; }
     }

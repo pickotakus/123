@@ -16,6 +16,11 @@ namespace AmazingTodo.Models
         public AddItemsContext() : base("name=AddItemsContext")
         {
         }
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            Database.SetInitializer(
+                new MigrateDatabaseToLatestVersion<AmazingTodoContext, Migrations.Configuration>());
+        }
 
         public DbSet<AdditionalItem> AdditionalItems { get; set; }
     }
